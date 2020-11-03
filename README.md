@@ -1,2 +1,2 @@
 # JavaAndroidExamples
-Mobil programming examples
+Mobile programming examples
